@@ -1,2 +1,2 @@
 # Criando-um-Banco-Digital-com-Java-e-Orientacao-a-Objetos
-Desafio do curso Québec Java Digital onde foi criado um Banco Digital em Java orientado a objetos.
+Desafio do curso Québec Java Digital onde foi criado um Banco Digital em Java orientado a objetos. Nesse código foram adicionados as funções de realizar depósito, sacar e transferir entre poupança e conta corrente, a partir do código original sugerido. Inicialmente aparecerá um extrato da conta do cliente de nome "Orisson" e, em seguida, será pedido se alguma operação deseja ser realizada. O código ainda está relativamente simples, pois sou iniciante, mas pretendo melhorá-lo com o tempo.
